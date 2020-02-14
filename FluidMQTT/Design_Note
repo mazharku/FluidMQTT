@@ -1,0 +1,2 @@
+#ClientView window is common window for every Fluid window, so it will not Singleton rather it will follow 
+factory design pattern.
